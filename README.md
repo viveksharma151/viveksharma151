@@ -1,4 +1,4 @@
-<!--
+
 # Hi there 👋, I'm Vivek Kumar Sharma
 **AI/ML Engineer & Full-Stack Developer**
 
@@ -40,4 +40,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
